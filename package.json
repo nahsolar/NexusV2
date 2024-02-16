@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.6.4",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "fnbr": "^4.0.0",
+    "forever-monitor": "^1.5.2",
+    "mongodb": "^6.3.0",
+    "nodemon": "^3.0.2",
+    "resp": "^0.1.1"
+  },
+  "scripts": {
+    "dev": "nodemon server.js --ignore *.json"
+  }
+}
